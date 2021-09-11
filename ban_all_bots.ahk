@@ -1,6 +1,6 @@
 ; This script was made by Mrlilal. The original script can be found at the following URL:
 ; https://github.com/Mrlilal/autohotkey
-; Last updated on September 10th, 2021.
+; Last updated on September 11th, 2021.
 
 ; Bot accounts are based off matchaartist's mod log, which can be found at:
 ; https://docs.google.com/document/d/1_F3qKiwkECmHYJvHv4hevkOYWundzNewpC_PcSGBj1I/edit
@@ -22,43 +22,43 @@ Loop , % HossBots.Length()
 {
     Bot := HossBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Loop , % ManoliaBots.Length()
 {
     Bot := ManoliaBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Loop , % PainhateBots.Length()
 {
     Bot := PainhateBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Loop , % LunarBots.Length()
 {
     Bot := LunarBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Loop , % GroupTargetBots.Length()
 {
     Bot := GroupTargetBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Loop , % HateRaidBots.Length()
 {
     Bot := HateRaidBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Loop , % OtherBots.Length()
 {
     Bot := OtherBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Return
 
@@ -68,7 +68,7 @@ Loop , % HossBots.Length()
 {
     Bot := HossBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Return
 
@@ -78,7 +78,7 @@ Loop , % ManoliaBots.Length()
 {
     Bot := ManoliaBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Return
 
@@ -88,7 +88,7 @@ Loop , % PainhateBots.Length()
 {
     Bot := PainhateBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Return
 
@@ -98,7 +98,7 @@ Loop , % LunarBots.Length()
 {
     Bot := LunarBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Return
 
@@ -108,7 +108,7 @@ Loop , % GroupTargetBots.Length()
 {
     Bot := GroupTargetBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Return
 
@@ -118,7 +118,7 @@ Loop , % HateRaidBots.Length()
 {
     Bot := HateRaidBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Return
 
@@ -128,6 +128,6 @@ Loop , % OtherBots.Length()
 {
     Bot := OtherBots[A_Index]
     Send /ban %Bot%{Enter}
-    Sleep 100
+    Sleep 1000
 }
 Return
