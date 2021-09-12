@@ -25,6 +25,10 @@ Most bots in this script are from a document that I found found from [MatchaArti
 * Ban all "Other" bots: CTRL + ALT + SHIFT + 7
 * Ban all "More" bots (bots that you can add to the script): CTRL + ALT + SHIFT + 8
 
+### Download:  
+Download the AHK [here](https://raw.githubusercontent.com/Mrlilal/autohotkey/main/ban_all_bots.ahk). (Note: You will need to right-click -> Save As.)  
+Download the EXE [here](https://github.com/Mrlilal/autohotkey/blob/main/ban_all_bots.exe?raw=true).
+
 ## FAQ  
 ### What is AutoHotKey?  
 AutoHotKey is essentially a free program that allows you to emulate key presses, mouse movements, and probably other things that I haven't used it for. You assign keybinds to whichever action you'd like to do, and bim-bam-boom, it's done. Here are a few quotes from the [website](https://www.autohotkey.com/) that may help you understand:
