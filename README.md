@@ -5,25 +5,25 @@ With this script, you can ban all bots that are on the list. If you use the AHK 
 Most bots in this script are from a document that I found found from [MatchaArtist](https://www.twitch.tv/matchaartist) and their moderation team, which can be found [here](https://docs.google.com/document/d/1_F3qKiwkECmHYJvHv4hevkOYWundzNewpC_PcSGBj1I/edit).
 
 ### Instructions 
-    1. Run the script.
-    2. Focus your mouse onto the text area that the script will by typing in. This would be either the chat portion of Twitch in a browser, or the input area on your chat program.
-    3. Press the keybinds to start the process of the script typing in all bots to ban.
-    4. Wait until the thread is done typing.
+1. Run the script.
+2. Focus your mouse onto the text area that the script will by typing in. This would be either the chat portion of Twitch in a browser, or the input area on your chat program.
+3. Press the keybinds to start the process of the script typing in all bots to ban.
+4. Wait until the thread is done typing.
 
 ### Default Keybinds
-    * Pause the current thread: CTRL + ALT + P
-    * Suspend the script: CTRL + ALT + S
-    * Reload the script: CTRL + ALT + R
-    * Exit the script: ESC
-    * Ban all bots on all lists: CTRL + ALT + SHIFT + 0
-    * Ban all "Hoss" bots: CTRL + ALT + SHIFT + 1
-    * Ban all "Manolia" bots: CTRL + ALT + SHIFT + 2
-    * Ban all "Painhate" bots: CTRL + ALT + SHIFT + 3
-    * Ban all "Lunar" bots: CTRL + ALT + SHIFT + 4
-    * Ban all "Group Target" bots: CTRL + ALT + SHIFT + 5
-    * Ban all "Hate Raid" bots: CTRL + ALT + SHIFT + 6
-    * Ban all "Other" bots: CTRL + ALT + SHIFT + 7
-    * Ban all "More" bots (bots that you can add to the script): CTRL + ALT + SHIFT + 8
+* Pause the current thread: CTRL + ALT + P
+* Suspend the script: CTRL + ALT + S
+* Reload the script: CTRL + ALT + R
+* Exit the script: ESC
+* Ban all bots on all lists: CTRL + ALT + SHIFT + 0
+* Ban all "Hoss" bots: CTRL + ALT + SHIFT + 1
+* Ban all "Manolia" bots: CTRL + ALT + SHIFT + 2
+* Ban all "Painhate" bots: CTRL + ALT + SHIFT + 3
+* Ban all "Lunar" bots: CTRL + ALT + SHIFT + 4
+* Ban all "Group Target" bots: CTRL + ALT + SHIFT + 5
+* Ban all "Hate Raid" bots: CTRL + ALT + SHIFT + 6
+* Ban all "Other" bots: CTRL + ALT + SHIFT + 7
+* Ban all "More" bots (bots that you can add to the script): CTRL + ALT + SHIFT + 8
 
 ## FAQ  
 ### What is AutoHotKey?  
